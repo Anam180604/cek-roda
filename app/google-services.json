@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137379303353",
+    "project_id": "observability-8fe74",
+    "storage_bucket": "observability-8fe74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137379303353:android:33097076a97e9937a1f068",
+        "android_client_info": {
+          "package_name": "com.cekdroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEAs_Rm1Fx4tTiO0piy7uj9Inj-ghI0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
